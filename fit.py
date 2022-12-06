@@ -6,6 +6,7 @@ Created on Tue Nov 15 19:57:47 2022
 @author: adamsun
 """
 
+#Source: https://www.tensorflow.org/tutorials/text/image_captioning
 #@title
 import concurrent.futures
 import collections
